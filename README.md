@@ -1,5 +1,5 @@
 # Food-Delivery-App
-I have built food delivery Android app using Java on Android Studio
+I have built food delivery Android app using Java on Android Studio you can review the project before downloading,through report.pdf all the details and snips mentioned in report
 
 
 # Note
